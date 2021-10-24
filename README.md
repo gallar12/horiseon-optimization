@@ -17,5 +17,5 @@ Refactor a website to meet accesibility standards so that it ranks better in Sea
 https://gallar12.github.io/horiseon-optimization/
 
 ## Contribution
-Ricardo Gallardo 
-Xavier Rapstine
+* Ricardo Gallardo 
+* Xavier Rapstine
