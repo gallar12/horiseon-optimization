@@ -15,7 +15,7 @@ Refactor a website to meet accesibility standards so that it ranks better in Sea
 
 ## Screenshot 
 
-![] (assets/images/horiseon-demo.png)
+![] (images/horiseon-demo.png)
 
 
 ## Website
