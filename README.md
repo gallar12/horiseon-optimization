@@ -13,6 +13,11 @@ Refactor a website to meet accesibility standards so that it ranks better in Sea
 * HTML
 * CSS
 
+## Screenshot 
+
+![] (assets/images/horiseon-demo.png)
+
+
 ## Website
 https://gallar12.github.io/horiseon-optimization/
 
